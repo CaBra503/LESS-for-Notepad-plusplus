@@ -6,8 +6,6 @@ Syntax Highlighting for LESS files in Notepad++ (UDL v2.1)
 
 What's This Thing
 --------------
-Just an xml file that gives you syntax highlighting/coloring for .LESS files inside recent versions of [Notepad++](http://notepad-plus-plus.org) (the ones that support the [User Defined Language](http://udl20.weebly.com/ "User Defined Language")).
-
 How to Use it
 --------------
  - Download the `less.xml` file
@@ -44,3 +42,4 @@ Some kind souls contributed a few mods inspired by alternative themes.
 
 Cheers,
 azrafe7 (_`azrafe7 at gmail dot com`_)
+Thaks to azrafe7 for the original repo
